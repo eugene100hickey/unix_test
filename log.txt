@@ -1,0 +1,17 @@
+commit 7cf74cdcfa4381475f854ef7805235f6af1a44df
+Author: eugene100hickey <eugene.hickey@ittdublin.ie>
+Date:   Tue Oct 8 10:10:51 2019 +0100
+
+    ignoring one file
+
+commit e0a48575cee7c809c638c96ed8997a9c68dcbc96
+Author: eugene100hickey <eugene.hickey@ittdublin.ie>
+Date:   Mon Oct 7 18:20:58 2019 +0100
+
+    added two files
+
+commit 6a98eb0bec11eb91673a92f0208bf2ddcfef0e21
+Author: eugene100hickey <eugene.hickey@ittdublin.ie>
+Date:   Mon Oct 7 18:18:42 2019 +0100
+
+    added readme
